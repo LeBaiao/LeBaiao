@@ -1,7 +1,7 @@
 # Olá! Me chamo Letícia!
 ## Bem vindo ao meu perfil Github 👋
 
-- 🌱  Atualmente cursando Análise e Desenvolvimento de Sistemas no Insituto Federal de São Paulo
+- 🌱  Formada em Análise e Desenvolvimento de Sistemas no Insituto Federal de São Paulo
 
 ## Estou aprendendo 
 
